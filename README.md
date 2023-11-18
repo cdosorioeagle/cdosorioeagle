@@ -2,6 +2,8 @@
 
 ## I'm Software Engineer
 
+Full-Stack developer with more than 4 years of experience. I consider myself a committed person with a lot of passion for programming, I love constantly learning and acquiring new skills and tools to improve my capabilities.
+
 ### Programming languages and Frameworks:
 
 - 🔭 I currently work at Banco Industrial on the Zigi App project as Backend Developer
